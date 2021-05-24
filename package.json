@@ -1,0 +1,17 @@
+{
+  "name": "website-18-05-2021",
+  "version": "1.0.0",
+  "description": "Eezaa Patient Website",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "SK",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
